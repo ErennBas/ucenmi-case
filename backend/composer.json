@@ -1,0 +1,8 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+        "slim/slim": "3",
+        "tuupola/cors-middleware": "^1.2",
+        "firebase/php-jwt": "5.5.1"
+    }
+}
